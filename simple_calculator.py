@@ -1,6 +1,6 @@
 # The following program is a simple calculator using a while repetition and defensive programming. 
 # The user can input numbers and an operator they want to calculate.
-# The user can choose to continue the calculation or see all equations and results from a text file.
+# The user can choose to continue the calculation or see all equations and results from a text file. 
 
 
 while True :
