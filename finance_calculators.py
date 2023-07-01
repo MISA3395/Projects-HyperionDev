@@ -3,7 +3,7 @@
 # They can choose the calculation either "investment" or "bond" which they want to do.
 # The program will check either "investment" or "bond" entered by the user and then either of the following if-elif 
 # statements will be executed.
-# For investment, they can choose how to calculate using either "simple" or "compound" calculation methods.
+# For investment, they can choose how to calculate using either "simple" or "compound" calculation methods. 
 
 
 import math # This is written in order to use math pow in the first elif-statement below.
