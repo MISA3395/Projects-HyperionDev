@@ -1,4 +1,4 @@
-# 2. simple_calculator
+# simple_calculator
 The following program is a simple calculator using a while repetition and defensive programming.  
 
 
