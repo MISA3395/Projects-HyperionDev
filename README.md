@@ -37,7 +37,7 @@ git clone https://github.com/MISA3395/Projects-HyperionDev.git
 5. If you choose 'A', you can continue to calculate.
 6. If you choose 'B', and request write the file name you want to see. After you did, you can see all of the equation and answer you calculated.
 
-![Image for the user how to use the program](https://github.com/MISA3395/finalCapstone/assets/132083386/63d2249d-7a5f-4e03-9cb3-f1f452d49612)  
+![Demo 6](https://github.com/MISA3395/Projects-HyperionDev/assets/132083386/df22025d-1613-44aa-b726-fa4c1177e5fa)  
 
 
 ## Authors
